@@ -1,1 +1,1 @@
-# react-kfc
+# react-demo
